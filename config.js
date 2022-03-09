@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Dimitra',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -61,13 +61,13 @@ const CONFIG = {
       id: '2',
       name: 'Gmail',
       icon: 'mail',
-      link: 'https://mail.google.com/mail/r',
+      link: 'https://mail.google.com/mail/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Notion',
+      icon: 'notion',
+      link: 'https://www.notion.so/',
     },
     {
       id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube .com/',
     },
   ],
 
@@ -135,24 +135,28 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      name: 'UOWM',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Main',
+          link: 'https://cs.uowm.gr/',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'University Students System',
+          link: 'https://students.uowm.gr/login.asp',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'UOWM eClass',
+          link: 'https://eclass.uowm.gr/main/portfolio.php',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'TEI eClass',
+          link: 'https://kastoria.teiwm.gr/edetclass/',
+        },
+        {
+          name: 'UOWM Webmail',
+          link: 'https://webmail.uowm.gr/roundcube/?_task=mail&_mbox=INBOX',
         },
       ],
     },
@@ -165,16 +169,16 @@ const CONFIG = {
           link: 'https://www.linkedin.com',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Spotify',
+          link: 'https://open.spotify.com',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Skroutz',
+          link: 'https://www.skroutz.gr/',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Netflix',
+          link: 'https://www.netflix.com/',
         },
       ],
     },
