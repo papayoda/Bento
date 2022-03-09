@@ -59,9 +59,9 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
+      name: 'Gmail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https:https://mail.google.com/',
     },
     {
       id: '3',
